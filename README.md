@@ -7,7 +7,7 @@ tarea-1-cordovamarroquin created by GitHub Classroom
 
 ID Historia	                                    Nombre de la Historia
 1	            Como cliente, deseo poder comprar entradas a través de la plataforma, con la finalidad de no hacer colas
-2	            Como cliente, deseo visualizar las películas que se encuentran en exhibición, con la finalidad de decidir que ir a ver
+2	            Como cliente, deseo visualizar las películas que se encuentran en exhibición, con la finalidad de saber que ir aver
 3	            Como cliente, deseo visualizar los cines y horarios disponibles de una función en particular
 4	            Como administrador del sistema, deseo poder registrar nuevas cadenas de cine y sus locales.
 5	            Como jefe de negocio, deseo que la información se pueda visualizar en una plataforma móvil, con la finalidad de tener 
