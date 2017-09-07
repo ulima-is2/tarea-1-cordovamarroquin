@@ -1,5 +1,6 @@
-# tarea-1-cordovamarroquin
-tarea-1-cordovamarroquin created by GitHub Classroom
+Integrantes: 
+1. Renato Córdova.
+2. Juan Marroquin.
 
 -----------------------------------------------------------------------------------------------------------------------------------
 PREGUNTA 1          Archivo Product Backlog.xlsx
